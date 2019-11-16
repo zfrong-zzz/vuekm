@@ -1,0 +1,13 @@
+.el-input{
+    width: 30%;
+}
+.el-main{
+    text-align: left;
+    line-height: 0;
+}
+.el-breadcrumb{
+    line-height: 4;
+    background: #909399;
+    border-radius: 5px;
+    padding-left: 10px;
+}
